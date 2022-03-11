@@ -1,12 +1,12 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/steventegnelia/Desktop/epic-game/contracts/Greeter.sol": {
-      "lastModificationDate": 1646688160687,
-      "contentHash": "54c28c84e5277b35b8c8329ce9755dae",
-      "sourceName": "contracts/Greeter.sol",
+    "/Users/steventegnelia/Desktop/eth-game/contracts/MyEpicGame.sol": {
+      "lastModificationDate": 1647037661234,
+      "contentHash": "cc4c045f77128d6d99e69836ae257f17",
+      "sourceName": "contracts/MyEpicGame.sol",
       "solcConfig": {
-        "version": "0.8.4",
+        "version": "0.8.0",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -35,15 +35,15 @@
         "^0.8.0"
       ],
       "artifacts": [
-        "Greeter"
+        "MyEpicGame"
       ]
     },
-    "/Users/steventegnelia/Desktop/epic-game/node_modules/hardhat/console.sol": {
-      "lastModificationDate": 1646688181727,
+    "/Users/steventegnelia/Desktop/eth-game/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1647027953130,
       "contentHash": "cc4777addd464ea56fa35b1c45df0591",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {
-        "version": "0.8.4",
+        "version": "0.8.0",
         "settings": {
           "optimizer": {
             "enabled": false,
